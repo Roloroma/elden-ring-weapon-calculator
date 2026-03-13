@@ -204,7 +204,7 @@ function WeaponListSettings({
           />
         ))}
         <NumberTextField
-          label="Free Stat Points"
+          label="Free Points"
           size="small"
           variant="outlined"
           value={freeStatPoints}
